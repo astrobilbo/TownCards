@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdbb83838ba644049a511ba934768648, type: 3}
+  m_Name: Fertilizantes Quimicos
+  m_EditorClassIdentifier: 
+  nome: Fertilizantes Quimicos
+  sprite: {fileID: 21300000, guid: 082a2ce6a737cdd43823bd947f23cfd5, type: 3}
+  poluicao: 4
+  felicidade: -4
+  exp: 1
+  moneyForTurn: 25
+  locais: 49
+  nvl: 4
+  custo: 20

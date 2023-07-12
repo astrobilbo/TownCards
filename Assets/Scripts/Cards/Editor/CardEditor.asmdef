@@ -1,0 +1,19 @@
+{
+    "name": "CardEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a603a2a56b7b8ef45940f06e07e4bb58",
+        "GUID:ce1a8ddc757064947a80850614c5c4b8"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

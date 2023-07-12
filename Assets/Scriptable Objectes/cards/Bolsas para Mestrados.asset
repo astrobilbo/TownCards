@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdbb83838ba644049a511ba934768648, type: 3}
+  m_Name: Bolsas para Mestrados
+  m_EditorClassIdentifier: 
+  nome: Bolsas para Mestrados
+  sprite: {fileID: 21300000, guid: cb99f3cbcb0a8694f8e5d72ea43d904b, type: 3}
+  poluicao: 0
+  felicidade: 3
+  exp: 10
+  moneyForTurn: -6
+  locais: 32
+  nvl: 3
+  custo: 25

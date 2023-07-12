@@ -1,0 +1,17 @@
+{
+    "name": "ResourcesUI",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1db02c4df816d2a439d517f8a20e1f31",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

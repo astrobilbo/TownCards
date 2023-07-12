@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdbb83838ba644049a511ba934768648, type: 3}
+  m_Name: "\xD4nibus Escolares"
+  m_EditorClassIdentifier: 
+  nome: "\xD4nibus Escolares"
+  sprite: {fileID: 21300000, guid: fb7e540c22cc1fe40bd65df3ebba0905, type: 3}
+  poluicao: 1
+  felicidade: 4
+  exp: 2
+  moneyForTurn: -5
+  locais: 34
+  nvl: 2
+  custo: 30

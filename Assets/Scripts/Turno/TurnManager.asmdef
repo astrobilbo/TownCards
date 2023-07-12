@@ -1,0 +1,21 @@
+{
+    "name": "TurnManager",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1db02c4df816d2a439d517f8a20e1f31",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f",
+        "GUID:bb83523bd56542f4d98fcd8d250219cc",
+        "GUID:071430d8af8afe049aff67bda6ecb177",
+        "GUID:4ac46b6198c2e2840a15e5811176e9bb",
+        "GUID:eee3a6a8c10f5914795f61f159ea3c1c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,20 @@
+{
+    "name": "CardBuy",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1db02c4df816d2a439d517f8a20e1f31",
+        "GUID:a603a2a56b7b8ef45940f06e07e4bb58",
+        "GUID:071430d8af8afe049aff67bda6ecb177",
+        "GUID:eee3a6a8c10f5914795f61f159ea3c1c",
+        "GUID:ce1a8ddc757064947a80850614c5c4b8"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

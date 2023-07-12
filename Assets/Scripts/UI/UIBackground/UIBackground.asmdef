@@ -1,0 +1,16 @@
+{
+    "name": "UIBackground",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1db02c4df816d2a439d517f8a20e1f31"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,804 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-9093638843063833760
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: f5b6e315-af3f-4ef9-b374-994839b050bc
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Voltar
+  children:
+  - 7b74018b-eeb4-40f8-815e-a8e60a613f87
+  rect:
+    serializedVersion: 2
+    x: 1203
+    y: 121
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8776538833881520018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 65d9686f-ad9c-4401-9850-e3899550c93b
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "N\xE3o precisa, obrigado.\r"
+  children:
+  - bb6ba41a-95ef-4284-9670-8eb0701683f1
+  rect:
+    serializedVersion: 2
+    x: 202
+    y: 493
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8652335184205519277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 30da6f6b-8532-4980-aa71-30bfef4f470f
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Me fale sobre os representantes das \xE1reas"
+  children:
+  - ccc4062d-bc70-4532-8d48-449c4c024092
+  rect:
+    serializedVersion: 2
+    x: 434
+    y: 1
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: RepresentandesON
+--- !u!114 &-8626465061445780569
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 2f793fbe-2cbe-475f-97da-c0ed771563f3
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Quais indicadores deixam a \xE1rea florestal incomodada?"
+  children:
+  - 7450ef50-b1c9-4bbf-bbc3-d0884f9537c9
+  rect:
+    serializedVersion: 2
+    x: 1471
+    y: 281
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8572397553511460109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 4b79a873-8821-4b4f-9f1f-db35782a1965
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Quais indicadores deixam a \xE1rea comercial incomodada?"
+  children:
+  - bde32420-5e8a-4188-8831-e6e8a64a33ad
+  rect:
+    serializedVersion: 2
+    x: 1472
+    y: 377
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-8258158106490651115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 34f2b3ce-47ad-4e57-98ac-202b6fd38250
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Ol\xE1, prefeito, meus parab\xE9ns pela vit\xF3ria!!!"
+  children:
+  - 7b74018b-eeb4-40f8-815e-a8e60a613f87
+  rect:
+    serializedVersion: 2
+    x: 3
+    y: 107
+    width: 200
+    height: 100
+  onEnterAction: AllOFF
+  onExitAction: 
+--- !u!114 &-7255363610817817186
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6f3e49d1-bb0e-409e-8636-7fae7eb43463
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Quais indicadores deixam a \xE1rea acad\xEAmica incomodada?"
+  children:
+  - c8007df5-7afe-46b8-816e-488c1c198aad
+  rect:
+    serializedVersion: 2
+    x: 1471
+    y: 88
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-6684337727094152115
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 287560d7-9b7d-4b6b-b468-2b5a5f768bb8
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Os representantes compreendem que nem sempre \xE9 poss\xEDvel investir na
+    \xE1rea deles, por conta disso eles s\xF3 ir\xE3o se revoltar com o senhor se
+    passarem 3 meses sem eles receberem investimento.\r\nNo caso deles se revoltarem
+    aparecera um s\xEDmbolo de alerta sobre eles como esta aparecendo sobre mim agora.\r"
+  children:
+  - 298ceb1a-6a8f-4d7d-9370-36b367171aeb
+  rect:
+    serializedVersion: 2
+    x: 1051
+    y: -5
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-5696889430577961935
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 50bd1384-3293-41e4-b398-5c6b0b7fe2ac
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Me fale sobre os indicadores da cidade
+  children:
+  - 128c4b1d-31f2-476e-a065-1e49edf44d98
+  rect:
+    serializedVersion: 2
+    x: 436
+    y: 116
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-4951291307533383452
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a09df126-9719-4415-9571-fbe6949f0c44
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Entendi, e caso eu n\xE3o consiga investir eu uma \xE1rea, algum m\xEAs,
+    o que ira ocorrer?"
+  children:
+  - 287560d7-9b7d-4b6b-b468-2b5a5f768bb8
+  rect:
+    serializedVersion: 2
+    x: 857
+    y: -6
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: AlertaOn
+--- !u!114 &-4247472797940341679
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: eca8bfe6-a090-4a68-88b8-6a2b57dbffe5
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "As cartas ficam ocultas por padr\xE3o e para visualizar elas, o senhor deve
+    clicar no \xEDcone das 3 cartas na parte inferior direita da tela."
+  children:
+  - 6dae6d9c-27fe-4e4a-a997-5d2e0ca90d1a
+  rect:
+    serializedVersion: 2
+    x: 706
+    y: 238
+    width: 200
+    height: 100
+  onEnterAction: ShowDeck
+  onExitAction: 
+--- !u!114 &-2608042192067835623
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: b3736083-73e8-4e4f-bce2-1ce0d3bb9039
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "A \xE1rea industrial se revoltara caso o imposto coletado estiver menor
+    que 5."
+  children:
+  - 298ceb1a-6a8f-4d7d-9370-36b367171aeb
+  rect:
+    serializedVersion: 2
+    x: 1696
+    y: 507
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2579286990729718491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: bde32420-5e8a-4188-8831-e6e8a64a33ad
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "A \xE1rea comercial se revoltara caso o imposto coletado estiver menor que
+    5."
+  children:
+  - 298ceb1a-6a8f-4d7d-9370-36b367171aeb
+  rect:
+    serializedVersion: 2
+    x: 1698
+    y: 397
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-2291814954058879309
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c8007df5-7afe-46b8-816e-488c1c198aad
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "A \xE1rea acad\xEAmica apenas se n\xE3o for realizado investimentos na mesma
+    por 3 turnos."
+  children:
+  - 298ceb1a-6a8f-4d7d-9370-36b367171aeb
+  rect:
+    serializedVersion: 2
+    x: 1705
+    y: 92
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &-7475663820924973
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: bb6ba41a-95ef-4284-9670-8eb0701683f1
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Que o senhor tenha um bom mandado.\r"
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 200
+    y: 598
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: AllOn
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: Tutorial_1
+  m_EditorClassIdentifier: 
+  Characters:
+  - Prefeito (jogador)
+  - Marcela Nunes
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: -8258158106490651115}
+  - {fileID: 1315730703429222314}
+  - {fileID: -8652335184205519277}
+  - {fileID: -8776538833881520018}
+  - {fileID: -7475663820924973}
+  - {fileID: 644923345886636111}
+  - {fileID: -5696889430577961935}
+  - {fileID: 1809551170924765696}
+  - {fileID: -4951291307533383452}
+  - {fileID: -6684337727094152115}
+  - {fileID: 5257484775936006531}
+  - {fileID: 6614776665273279850}
+  - {fileID: -7255363610817817186}
+  - {fileID: 3527603592303113006}
+  - {fileID: -8626465061445780569}
+  - {fileID: -8572397553511460109}
+  - {fileID: 3369160375994055598}
+  - {fileID: 2292581588053879091}
+  - {fileID: -2291814954058879309}
+  - {fileID: 7721330924157267162}
+  - {fileID: 4312344649197547455}
+  - {fileID: -2579286990729718491}
+  - {fileID: -2608042192067835623}
+  - {fileID: -9093638843063833760}
+  - {fileID: 6982109597891498391}
+  - {fileID: -4247472797940341679}
+  - {fileID: 4908217330176688363}
+  - {fileID: 3473733430657946084}
+  - {fileID: 3005428333130323299}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &644923345886636111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: ccc4062d-bc70-4532-8d48-449c4c024092
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Os representantes das \xE1reas trazem a tona os desejos e as insatisfa\xE7\xF5es
+    da popula\xE7\xE3o, e desejam que voc\xEA invista nas \xE1reas deles todos os
+    meses."
+  children:
+  - a09df126-9719-4415-9571-fbe6949f0c44
+  rect:
+    serializedVersion: 2
+    x: 656
+    y: -8
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &1315730703429222314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 7b74018b-eeb4-40f8-815e-a8e60a613f87
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "O senhor gostaria que eu te explicasse alguma das mec\xE2nicas de gerenciamento
+    da cidade?\r"
+  children:
+  - 50bd1384-3293-41e4-b398-5c6b0b7fe2ac
+  - 30da6f6b-8532-4980-aa71-30bfef4f470f
+  - df9be0d7-25f2-423b-9527-b82269721ea6
+  - 65d9686f-ad9c-4401-9850-e3899550c93b
+  rect:
+    serializedVersion: 2
+    x: 213
+    y: 108
+    width: 200
+    height: 100
+  onEnterAction: AllOFF
+  onExitAction: 
+--- !u!114 &1809551170924765696
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: df9be0d7-25f2-423b-9527-b82269721ea6
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: Me fale sobre as cartas
+  children:
+  - eca8bfe6-a090-4a68-88b8-6a2b57dbffe5
+  rect:
+    serializedVersion: 2
+    x: 462
+    y: 226
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &2292581588053879091
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 7f9d0307-e2d6-46f7-aed8-3fa13c334275
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "A \xE1rea residencial se revoltara caso a polui\xE7\xE3o esteja acima de
+    70,se a satisfa\xE7\xE3o estiver abaixo de 30 ou o imposto coletado estiver menor
+    que 5."
+  children:
+  - 298ceb1a-6a8f-4d7d-9370-36b367171aeb
+  rect:
+    serializedVersion: 2
+    x: 1701
+    y: -6
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3005428333130323299
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c33d1326-e17b-4de1-8f25-bf1224126c5d
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: 
+  children:
+  - 7b74018b-eeb4-40f8-815e-a8e60a613f87
+  rect:
+    serializedVersion: 2
+    x: 1132
+    y: 234
+    width: 200
+    height: 100
+  onEnterAction: ShowDeck
+  onExitAction: 
+--- !u!114 &3369160375994055598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: c5295fa8-a78d-4f01-88cb-7c3258f4b6c9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Quais indicadores deixam a \xE1rea industrial incomodada?"
+  children:
+  - b3736083-73e8-4e4f-bce2-1ce0d3bb9039
+  rect:
+    serializedVersion: 2
+    x: 1460
+    y: 473
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3473733430657946084
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 6dae6d9c-27fe-4e4a-a997-5d2e0ca90d1a
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "As cartas tem seus valores ocultos, aparecendo ao por o mouse sobre elas,
+    cada carta ira alterar alguns dos valores socioecon\xF4micos da cidade custando
+    um valor em dinheiro."
+  children:
+  - c33d1326-e17b-4de1-8f25-bf1224126c5d
+  rect:
+    serializedVersion: 2
+    x: 932
+    y: 235
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &3527603592303113006
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 95ba154c-e221-4d32-a5c5-c9ffe1539e30
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Quais indicadores deixam a \xE1rea rural incomodada?"
+  children:
+  - 07a6fc92-a72f-4104-979a-444c3d117728
+  rect:
+    serializedVersion: 2
+    x: 1477
+    y: 180
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4312344649197547455
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 7450ef50-b1c9-4bbf-bbc3-d0884f9537c9
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "A \xE1rea florestal se revoltara caso a polui\xE7\xE3o esteja acima de 70."
+  children:
+  - 298ceb1a-6a8f-4d7d-9370-36b367171aeb
+  rect:
+    serializedVersion: 2
+    x: 1693
+    y: 296
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &4908217330176688363
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: cd128616-6bb9-4130-93e0-26239e6cf029
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Se a polui\xE7\xE3o chegar a 100%,a satisfa\xE7\xE3o da cidade chegar a
+    0% ou a cidade ficar falida, o senhor ser\xE1 deposto.\r"
+  children:
+  - 7b74018b-eeb4-40f8-815e-a8e60a613f87
+  rect:
+    serializedVersion: 2
+    x: 915
+    y: 111
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &5257484775936006531
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 298ceb1a-6a8f-4d7d-9370-36b367171aeb
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Entre tando eles tamb\xE9m se preocupam com os indicadores da cidade, sendo
+    assim se o indicador que a regi\xE3o se importa estiver com um valor ruim tamb\xE9m
+    ocorrera revolta."
+  children:
+  - a7f9a4a2-e797-491e-a9af-59e34d64cc26
+  - 6f3e49d1-bb0e-409e-8636-7fae7eb43463
+  - 95ba154c-e221-4d32-a5c5-c9ffe1539e30
+  - 2f793fbe-2cbe-475f-97da-c0ed771563f3
+  - 4b79a873-8821-4b4f-9f1f-db35782a1965
+  - c5295fa8-a78d-4f01-88cb-7c3258f4b6c9
+  - f5b6e315-af3f-4ef9-b374-994839b050bc
+  rect:
+    serializedVersion: 2
+    x: 1252
+    y: 2
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6614776665273279850
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a7f9a4a2-e797-491e-a9af-59e34d64cc26
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 1
+  characterSpeaking: 0
+  text: "Quais indicadores deixam a \xE1rea residencial incomodada?"
+  children:
+  - 7f9d0307-e2d6-46f7-aed8-3fa13c334275
+  rect:
+    serializedVersion: 2
+    x: 1477
+    y: -12
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &6982109597891498391
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 128c4b1d-31f2-476e-a065-1e49edf44d98
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "Os indicadores socioecon\xF4micos da cidade em ordem vertical s\xE3o a polui\xE7\xE3o
+    da cidade, a satisfa\xE7\xE3o da popula\xE7\xE3o com o governo, o dinheiro dispon\xEDvel
+    e o valor em dinheiro a ser recebido no pr\xF3ximo m\xEAs e o n\xEDvel tecnol\xF3gico
+    da cidade."
+  children:
+  - cd128616-6bb9-4130-93e0-26239e6cf029
+  rect:
+    serializedVersion: 2
+    x: 715
+    y: 112
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
+--- !u!114 &7721330924157267162
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: 07a6fc92-a72f-4104-979a-444c3d117728
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 1
+  text: "A \xE1rea rural se revoltara caso a polui\xE7\xE3o esteja acima de 70 ou
+    se a satisfa\xE7\xE3o estiver abaixo de 30."
+  children:
+  - 298ceb1a-6a8f-4d7d-9370-36b367171aeb
+  rect:
+    serializedVersion: 2
+    x: 1703
+    y: 190
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 

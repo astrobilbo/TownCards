@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cdbb83838ba644049a511ba934768648, type: 3}
+  m_Name: "Loja de Eletr\xF4nicos"
+  m_EditorClassIdentifier: 
+  nome: "Loja de Eletr\xF4nicos"
+  sprite: {fileID: 21300000, guid: e367dfd3ebd260841a03fe03ca4efb4a, type: 3}
+  poluicao: 1
+  felicidade: 3
+  exp: 1
+  moneyForTurn: 10
+  locais: 50
+  nvl: 2
+  custo: 30

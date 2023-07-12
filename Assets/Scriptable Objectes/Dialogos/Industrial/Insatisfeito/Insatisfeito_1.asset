@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75ca589bf311ba84aa31cedded942b76, type: 3}
+  m_Name: Insatisfeito_1
+  m_EditorClassIdentifier: 
+  Characters:
+  - Player
+  defaultCharacterElement: 0
+  nodes:
+  - {fileID: 5881831047163303085}
+  newNodeOffset: {x: 200, y: 0}
+--- !u!114 &5881831047163303085
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc7c4643be973949ae6ee7ba56548ec, type: 3}
+  m_Name: a954cefb-f5b4-4406-8758-c978dec19b4e
+  m_EditorClassIdentifier: 
+  isPlayerSpeaking: 0
+  characterSpeaking: 0
+  text: "Investe aqui seu prefeito, n\xF3s estamos estagnados na produ\xE7\xE3o faz
+    muito tempo."
+  children: []
+  rect:
+    serializedVersion: 2
+    x: 34
+    y: 22
+    width: 200
+    height: 100
+  onEnterAction: 
+  onExitAction: 
